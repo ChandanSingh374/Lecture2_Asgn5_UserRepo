@@ -1,3 +1,3 @@
-# Lecture1_Asgn1_UserRepo
+# Lecture2_Asgn5_UserRepo
 
-1. Complete the code in Student class
+1. Complete the code in Math class
